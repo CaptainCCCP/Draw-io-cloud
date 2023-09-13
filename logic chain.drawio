@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T10:41:27.280Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ur84Lmi4ce42mmA2k88G" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-13T14:07:41.354Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_w6N-2jKucV0-yGYuGK5" version="21.6.8" type="github" pages="2">
   <diagram name="Page-1" id="24T3DXJF2uw2_bgW-X_7">
     <mxGraphModel dx="1364" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -279,6 +279,99 @@
         </mxCell>
         <mxCell id="tq8WCnV3y_dN4W_3b1Hw-12" value="海归含水量增加" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-1" target="8URLj0X4gQoOfT-6Zjkp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-1" value="生存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-2" target="8URLj0X4gQoOfT-6Zjkp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-2" value="团结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-5" target="8URLj0X4gQoOfT-6Zjkp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-5" value="形成国家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-7" target="8URLj0X4gQoOfT-6Zjkp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-7" value="保障基本生存，同时收取一些税金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-9" target="8URLj0X4gQoOfT-6Zjkp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-9" value="国家治理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-11" value="生存更好" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-13" target="8URLj0X4gQoOfT-6Zjkp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-13" value="拥有资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-14" target="8URLj0X4gQoOfT-6Zjkp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-14" value="提供更多宝贵的闲暇与机会来促进社会发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-16" target="8URLj0X4gQoOfT-6Zjkp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-16" value="结社" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-18" target="8URLj0X4gQoOfT-6Zjkp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-18" value="保障一些人的基本生存，同时不强制地收取一些回报（捐款）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="2341" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-20" target="8URLj0X4gQoOfT-6Zjkp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-20" value="组织经营" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="2340.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-23" value="生存更好" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2341" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="2070" as="sourcePoint" />
+            <mxPoint x="980" y="2070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="2310" as="sourcePoint" />
+            <mxPoint x="980" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-27" target="8URLj0X4gQoOfT-6Zjkp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-27" value="为什么要获取保障、工作的意义、劳动与创造？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8URLj0X4gQoOfT-6Zjkp-28" target="8URLj0X4gQoOfT-6Zjkp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-28" value="进化筛选出的某个基因产生了这样的特性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8URLj0X4gQoOfT-6Zjkp-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
