@@ -1,17 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T13:08:29.975Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sD3cvCCjA8h3qxeHgObG" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T13:15:56.239Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tdx2uY0zsXYIDt17LKoB" version="22.1.11" type="github">
   <diagram name="第 1 页" id="D8S4acnLhqAKraSrzIpJ">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R-vP8RV_rIgtyst-iiZz-1" value="Django/flask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="S-drlWLL-34xeZ3a_UxQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="R-vP8RV_rIgtyst-iiZz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="R-vP8RV_rIgtyst-iiZz-3" value="Python程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="R-vP8RV_rIgtyst-iiZz-1" value="Django/flask" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-vP8RV_rIgtyst-iiZz-4" value="网页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S-drlWLL-34xeZ3a_UxQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R-vP8RV_rIgtyst-iiZz-4" target="R-vP8RV_rIgtyst-iiZz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-drlWLL-34xeZ3a_UxQ-3" value="json&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S-drlWLL-34xeZ3a_UxQ-1">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-vP8RV_rIgtyst-iiZz-4" value="React/Vue/Angular" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S-drlWLL-34xeZ3a_UxQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S-drlWLL-34xeZ3a_UxQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S-drlWLL-34xeZ3a_UxQ-4" value="SQL/NoSQL:&lt;br&gt;MySQL, MongoDB, Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="S-drlWLL-34xeZ3a_UxQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R-vP8RV_rIgtyst-iiZz-1" target="S-drlWLL-34xeZ3a_UxQ-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
