@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T10:29:18.448Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="m5hU0P19S_aIYZtUmuym" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T10:33:05.069Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wcWSPHrVPprgjjJ5s0PZ" version="22.1.11" type="github">
   <diagram name="第 1 页" id="6qtlrhqvGVMhSLtM3vMk">
     <mxGraphModel dx="1354" dy="606" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,21 +40,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCYTDgje04zDZOGfKJm4-23" value="tools" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="542" y="504" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uCYTDgje04zDZOGfKJm4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uCYTDgje04zDZOGfKJm4-24" target="uCYTDgje04zDZOGfKJm4-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="681" y="504" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uCYTDgje04zDZOGfKJm4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uCYTDgje04zDZOGfKJm4-24" target="uCYTDgje04zDZOGfKJm4-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCYTDgje04zDZOGfKJm4-33" value="loop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uCYTDgje04zDZOGfKJm4-32">
           <mxGeometry x="0.2145" y="1" relative="1" as="geometry">
-            <mxPoint x="11" y="-1" as="offset" />
+            <mxPoint x="-11" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uCYTDgje04zDZOGfKJm4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uCYTDgje04zDZOGfKJm4-24" target="uCYTDgje04zDZOGfKJm4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uCYTDgje04zDZOGfKJm4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uCYTDgje04zDZOGfKJm4-24" target="uCYTDgje04zDZOGfKJm4-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCYTDgje04zDZOGfKJm4-24" value="action / output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="542" y="272" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uCYTDgje04zDZOGfKJm4-34" value="JOB1：用户反馈入决策过程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="203.75" y="384" width="157.5" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="uCYTDgje04zDZOGfKJm4-35" value="JOB2&lt;br&gt;agent内部循环产生prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="467" y="240" width="49" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="uCYTDgje04zDZOGfKJm4-36" value="JOB3：agent主动行动询问问题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="535.5" y="401" width="133" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
