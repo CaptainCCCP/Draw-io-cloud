@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T10:33:26.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" version="22.1.16" etag="n0_RN6cY0r8QPkJht__3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T10:35:22.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="a8jCyCpMYCWb9eABYu6k" version="22.1.16" type="github">
   <diagram name="第 1 页" id="4WK8prquDSlBuQQoW6sq">
-    <mxGraphModel>
+    <mxGraphModel dx="778" dy="537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nED7eULPSA33yrF9FGDN-1" value="MiniProgram" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="32" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nED7eULPSA33yrF9FGDN-2" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="32" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nED7eULPSA33yrF9FGDN-3" value="WeChat Http Api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="32" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
