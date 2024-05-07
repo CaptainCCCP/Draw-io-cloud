@@ -1,166 +1,166 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T08:04:51.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="o3A_1iNfLPEVGF2IbfVX" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T09:13:08.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eqF3mfNR75zuqwDdjUWk" version="24.3.1" type="github">
   <diagram name="第 1 页" id="vTX5wK9Gj_gGrEb3DV-r">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fTLe9w5As901FmEwYzMM-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-3" target="fTLe9w5As901FmEwYzMM-28">
+        <mxCell id="fTLe9w5As901FmEwYzMM-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fTLe9w5As901FmEwYzMM-3" target="fTLe9w5As901FmEwYzMM-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-3" value="1825" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-3" value="1825" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-4" value="工业化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-4" value="工业化" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-5" value="&lt;b&gt;蒸汽机&lt;/b&gt;&lt;div&gt;纺织&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-5" value="&lt;b&gt;蒸汽机&lt;/b&gt;&lt;div&gt;纺织&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-9" target="fTLe9w5As901FmEwYzMM-29">
+        <mxCell id="fTLe9w5As901FmEwYzMM-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fTLe9w5As901FmEwYzMM-9" target="fTLe9w5As901FmEwYzMM-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-9" value="1873" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-9" value="1873" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-11" value="运输革命" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-11" value="运输革命" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-12" value="&lt;b&gt;铁路&lt;/b&gt; 钢铁&lt;div&gt;蒸汽船 电报&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-12" value="&lt;b&gt;铁路&lt;/b&gt; 钢铁&lt;div&gt;蒸汽船 电报&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-14" target="fTLe9w5As901FmEwYzMM-30">
+        <mxCell id="fTLe9w5As901FmEwYzMM-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fTLe9w5As901FmEwYzMM-14" target="fTLe9w5As901FmEwYzMM-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-14" value="1913" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-14" value="1913" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-16" value="全球化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-16" value="全球化" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-17" value="电力&lt;div&gt;&lt;b&gt;石油&lt;/b&gt;重工业&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-17" value="电力&lt;div&gt;&lt;b&gt;石油&lt;/b&gt;重工业&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-19" target="fTLe9w5As901FmEwYzMM-32">
+        <mxCell id="fTLe9w5As901FmEwYzMM-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fTLe9w5As901FmEwYzMM-19" target="fTLe9w5As901FmEwYzMM-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-19" value="1956" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-19" value="1956" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-21" value="信息化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-21" value="信息化" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-22" value="&lt;b&gt;汽车&lt;/b&gt; 航空&lt;div&gt;大众传媒&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-22" value="&lt;b&gt;汽车&lt;/b&gt; 航空&lt;div&gt;大众传媒&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-24" target="fTLe9w5As901FmEwYzMM-33">
+        <mxCell id="fTLe9w5As901FmEwYzMM-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fTLe9w5As901FmEwYzMM-24" target="fTLe9w5As901FmEwYzMM-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-24" value="2000" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-24" value="2000" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-27" value="通讯&lt;div&gt;&lt;b&gt;互联网&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-27" value="通讯&lt;div&gt;&lt;b&gt;互联网&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-28" target="fTLe9w5As901FmEwYzMM-9">
+        <mxCell id="fTLe9w5As901FmEwYzMM-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fTLe9w5As901FmEwYzMM-28" target="fTLe9w5As901FmEwYzMM-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-28" value="1847" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-28" value="1847" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-29" target="fTLe9w5As901FmEwYzMM-14">
+        <mxCell id="fTLe9w5As901FmEwYzMM-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fTLe9w5As901FmEwYzMM-29" target="fTLe9w5As901FmEwYzMM-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-29" value="1893" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-29" value="1893" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-30" target="fTLe9w5As901FmEwYzMM-19">
+        <mxCell id="fTLe9w5As901FmEwYzMM-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fTLe9w5As901FmEwYzMM-30" target="fTLe9w5As901FmEwYzMM-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-30" value="1939" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-30" value="1939" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-32" target="fTLe9w5As901FmEwYzMM-24">
+        <mxCell id="fTLe9w5As901FmEwYzMM-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fTLe9w5As901FmEwYzMM-32" target="fTLe9w5As901FmEwYzMM-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-32" value="1989" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-32" value="1989" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-33" value="2020" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-33" value="2020" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-34" value="人工智能、生物" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-34" value="人工智能、生物" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-44" target="fTLe9w5As901FmEwYzMM-3">
+        <mxCell id="fTLe9w5As901FmEwYzMM-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fTLe9w5As901FmEwYzMM-44" target="fTLe9w5As901FmEwYzMM-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-44" value="1793" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-44" value="1793" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="500" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-46" value="&lt;div&gt;经济理论上的点（康波）：&lt;/div&gt;1.下降期农业衰退时间长&lt;div&gt;2.下降段最低点新老技术交替，新技术大量出现&lt;/div&gt;&lt;div&gt;3.上升段（黄金）资本供应量大幅增加&lt;/div&gt;&lt;div&gt;4.上升段通常会发生战争（新旧冲突）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-46" value="&lt;div&gt;经济理论上的点（康波）：&lt;/div&gt;1.下降期农业衰退时间长&lt;div&gt;2.下降段最低点新老技术交替，新技术大量出现&lt;/div&gt;&lt;div&gt;3.上升段（黄金）资本供应量大幅增加&lt;/div&gt;&lt;div&gt;4.上升段通常会发生战争（新旧冲突）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-47" value="与我们相关的点：&lt;div&gt;1.经济正常的周期，悲观的消息很容易持续，其实没有必要恐慌&lt;/div&gt;&lt;div&gt;2.&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-47" value="与我们相关的点：&lt;div&gt;1.经济正常的周期，悲观的消息很容易持续，其实没有必要恐慌&lt;/div&gt;&lt;div&gt;2.一般人的一生中很有可能会赶上经济周期的涨落，执着于上一个周期吃香的行业很容易失业，必须要不停的顺应新的行业&lt;/div&gt;&lt;div&gt;3.学校教育出的一般是上一个周期缺乏的人才，很难赶上新的周期&lt;/div&gt;&lt;div&gt;4.房地产、基础设施等东西很大程度上是养着公务员体系，在这些疲软的时候体制内也肯定会裁剪&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="350" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-48" value="正文：" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-48" value="正文：" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-49" value="蒸汽机：&lt;div&gt;1.原型其实出现已经很久了，瓦特只是将其改造的更加方便各行各业使用，使得矿用蒸汽机破圈，应用到各行各业提高了大家的生产效率&lt;/div&gt;&lt;div&gt;2.&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;蒸汽船、火车-运输邮件、粮食；&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;煤油灯、自来水-城市化；&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;收割机-农业发展；&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;摩斯电码1838、电报1837-交流&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;3.出现的企业大亨包括零售和农业，分别是靠规模化新东西来解决问题，一个是为救经济提供性价比高的新方案。蒸汽船载客、蒸汽船运粮食、农具制造商帮助种植园、零售肥皂蜡烛&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-49" value="蒸汽机：&lt;div&gt;1.原型其实出现已经很久了，瓦特只是将其改造的更加方便各行各业使用，使得矿用蒸汽机破圈，应用到各行各业提高了大家的生产效率&lt;/div&gt;&lt;div&gt;2.&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;蒸汽船、火车-运输邮件、粮食；&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;煤油灯、自来水-城市化；&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;收割机-农业发展；&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;摩斯电码1838、电报1837-交流&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;3.出现的企业大亨包括零售和农业，分别是靠规模化新东西来解决问题，一个是为救经济提供性价比高的新方案。蒸汽船载客、蒸汽船运粮食、农具制造商帮助种植园、零售肥皂蜡烛&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="50" y="860" width="760" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-50" value="与历史上不同的点：&lt;div&gt;1.郭尚仪：现在创新与科技有了专业的机构和巨型的企业&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-50" value="与历史上不同的点：&lt;div&gt;1.郭尚仪：现在创新与科技有了专业的机构和巨型的企业&lt;/div&gt;&lt;div&gt;2.机构和政府的投资现在更加透明&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="750" y="40" width="330" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-52" value="铁路：&lt;div&gt;1.依靠战争对战马的消耗发展，解决了一些问题后逐渐推广；运河的建设已经饱和，因此铁路得到了投资&lt;/div&gt;&lt;div&gt;2.出现卡耐基钢铁行业，改进炼钢法，洛克菲勒石油，专注炼油而不是采油，他们是使用新技术的阶段性优势&lt;/div&gt;&lt;div&gt;雀巢和刘易斯利用铁路的供应红利开始制作牛奶、巧克力、可乐；铁路旅行促进了意外险，战争催生寿险；摩根和高盛的金融手段，发展&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-52" value="铁路：&lt;div&gt;1.依靠战争对战马的消耗发展，解决了一些问题后逐渐推广；运河的建设已经饱和，因此铁路得到了投资&lt;/div&gt;&lt;div&gt;2.出现卡耐基钢铁行业，改进炼钢法，洛克菲勒石油，专注炼油而不是采油，他们是使用新技术的阶段性优势&lt;/div&gt;&lt;div&gt;雀巢和刘易斯利用铁路的供应红利开始制作牛奶、巧克力、可乐；铁路旅行促进了意外险，战争催生寿险；摩根和高盛的金融手段，发展&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="50" y="1010" width="760" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-53" value="纺织行业过剩&lt;div&gt;工人失业&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-53" value="纺织行业过剩&lt;div&gt;工人失业&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-54" value="铁路创造大量就业" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-54" value="铁路创造大量就业" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-55" value="牛奶巧克力饮料&lt;div&gt;金融保险发展&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-55" value="牛奶巧克力饮料&lt;div&gt;金融保险发展&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-56" value="铁路饱和" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-56" value="铁路饱和" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-57" value="内燃机：&lt;div&gt;1.内燃机创新，发明汽车；福特控制成本把汽车打成大众日用品&lt;/div&gt;&lt;div&gt;2.IBM 摩托罗拉 惠普 迪士尼，电报技术，半导体的发展，IBM从制表机转到计算机；&lt;span style=&quot;background-color: initial;&quot;&gt;1900无线电开始推广，摩托罗拉军民结合； 迪士尼抓住无线电创造了有声动画； 惠普为迪士尼提供设备； 飞机 波音&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.这些人都是在原有的领域得到创意发现需求然后创业&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-57" value="内燃机：&lt;div&gt;1.内燃机创新，发明汽车；福特控制成本把汽车打成大众日用品&lt;/div&gt;&lt;div&gt;2.IBM 摩托罗拉 惠普 迪士尼，电报技术，半导体的发展，IBM从制表机转到计算机；&lt;span style=&quot;background-color: initial;&quot;&gt;1900无线电开始推广，摩托罗拉军民结合； 迪士尼抓住无线电创造了有声动画； 惠普为迪士尼提供设备； 飞机 波音&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.这些人都是在原有的领域得到创意发现需求然后创业&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="50" y="1150" width="760" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-58" value="石油被汽车拯救" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-58" value="石油被汽车拯救" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-59" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;计算机：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.芯片的发明和扩大，仙童和intel； 苹果个人电脑； 微软软件市场； 日本半导体热出现主机游戏行业&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-59" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;计算机：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.芯片的发明和扩大，仙童和intel； 苹果个人电脑； 微软软件市场； 日本半导体热出现主机游戏行业&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="50" y="1270" width="760" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-60" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-60" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-61" value="互联网：&lt;div&gt;1.网络、网站、邮件、浏览器、搜索引擎&lt;/div&gt;&lt;div&gt;2.各位创业者都是技术前沿的观察者，掌握信息&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-61" value="互联网：&lt;div&gt;1.网络、网站、邮件、浏览器、搜索引擎&lt;/div&gt;&lt;div&gt;2.各位创业者都是技术前沿的观察者，掌握信息&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="50" y="1430" width="760" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-62" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-62" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-63" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-63" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-64" value="出生率下降，人口与技术不同步" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-64" value="出生率下降，人口与技术不同步" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-65" value="下一步的可能方向：&lt;div&gt;5G&lt;/div&gt;&lt;div&gt;机器人&lt;/div&gt;&lt;div&gt;区块链&lt;/div&gt;&lt;div&gt;元宇宙&lt;/div&gt;&lt;div&gt;物联网&lt;/div&gt;&lt;div&gt;自动驾驶&lt;/div&gt;&lt;div&gt;生成式AI&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-65" value="下一步的可能方向：&lt;div&gt;5G&lt;/div&gt;&lt;div&gt;机器人&lt;/div&gt;&lt;div&gt;区块链&lt;/div&gt;&lt;div&gt;元宇宙&lt;/div&gt;&lt;div&gt;物联网&lt;/div&gt;&lt;div&gt;自动驾驶&lt;/div&gt;&lt;div&gt;生成式AI&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="50" y="1560" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-66" value="核聚变&lt;div&gt;&lt;div&gt;能源&lt;/div&gt;&lt;div&gt;材料&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-66" value="核聚变&lt;div&gt;&lt;div&gt;能源&lt;/div&gt;&lt;div&gt;材料&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="180" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-67" value="&lt;div style=&quot;&quot;&gt;生物科技&lt;/div&gt;&lt;div style=&quot;&quot;&gt;脑机接口&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-67" value="&lt;div style=&quot;&quot;&gt;生物科技&lt;/div&gt;&lt;div style=&quot;&quot;&gt;脑机接口&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="180" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-68" value="生产、运力、算力、能源领域&lt;div&gt;供给+需求&lt;/div&gt;&lt;div&gt;成为基础设施&lt;/div&gt;&lt;div&gt;接棒上一次技术革命&lt;/div&gt;&lt;div&gt;外溢效应，提高别的行业的生产效率&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="fTLe9w5As901FmEwYzMM-68" value="生产、运力、算力、能源领域&lt;div&gt;供给+需求&lt;/div&gt;&lt;div&gt;成为基础设施&lt;/div&gt;&lt;div&gt;接棒上一次技术革命&lt;/div&gt;&lt;div&gt;外溢效应，提高别的行业的生产效率&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="390" y="1560" width="330" height="160" as="geometry" />
         </mxCell>
       </root>
