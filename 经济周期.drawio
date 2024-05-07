@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T09:13:08.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eqF3mfNR75zuqwDdjUWk" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T09:15:47.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FZO5gR30AolN_WbGwXH_" version="24.3.1" type="github">
   <diagram name="第 1 页" id="vTX5wK9Gj_gGrEb3DV-r">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -100,8 +100,8 @@
         <mxCell id="fTLe9w5As901FmEwYzMM-46" value="&lt;div&gt;经济理论上的点（康波）：&lt;/div&gt;1.下降期农业衰退时间长&lt;div&gt;2.下降段最低点新老技术交替，新技术大量出现&lt;/div&gt;&lt;div&gt;3.上升段（黄金）资本供应量大幅增加&lt;/div&gt;&lt;div&gt;4.上升段通常会发生战争（新旧冲突）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fTLe9w5As901FmEwYzMM-47" value="与我们相关的点：&lt;div&gt;1.经济正常的周期，悲观的消息很容易持续，其实没有必要恐慌&lt;/div&gt;&lt;div&gt;2.一般人的一生中很有可能会赶上经济周期的涨落，执着于上一个周期吃香的行业很容易失业，必须要不停的顺应新的行业&lt;/div&gt;&lt;div&gt;3.学校教育出的一般是上一个周期缺乏的人才，很难赶上新的周期&lt;/div&gt;&lt;div&gt;4.房地产、基础设施等东西很大程度上是养着公务员体系，在这些疲软的时候体制内也肯定会裁剪&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="360" y="40" width="350" height="60" as="geometry" />
+        <mxCell id="fTLe9w5As901FmEwYzMM-47" value="与我们相关的点：&lt;div&gt;1.经济正常的周期，悲观的消息很容易持续，其实没有必要恐慌&lt;/div&gt;&lt;div&gt;2.一般人的一生中很有可能会赶上经济周期的涨落，执着于上一个周期吃香的行业很容易失业，必须要不停的顺应新的行业&lt;/div&gt;&lt;div&gt;3.学校教育出的一般是上一个周期缺乏的人才，很难赶上新的周期&lt;/div&gt;&lt;div&gt;4.房地产、基础设施等东西很大程度上是养着公务员体系，在这些疲软的时候体制内也肯定会裁剪，&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="350" height="200" as="geometry" />
         </mxCell>
         <mxCell id="fTLe9w5As901FmEwYzMM-48" value="正文：" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="780" width="120" height="60" as="geometry" />
