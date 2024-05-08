@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T09:15:47.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FZO5gR30AolN_WbGwXH_" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T07:57:09.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="dYOt3ct1L34y7ey945-f" version="24.3.1" type="github">
   <diagram name="第 1 页" id="vTX5wK9Gj_gGrEb3DV-r">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fTLe9w5As901FmEwYzMM-24" value="2000" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fTLe9w5As901FmEwYzMM-27" value="通讯&lt;div&gt;&lt;b&gt;互联网&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="690" width="120" height="60" as="geometry" />
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="fTLe9w5As901FmEwYzMM-32" value="1989" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onF5DvCyqaugdLCMzkTo-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTLe9w5As901FmEwYzMM-33" target="onF5DvCyqaugdLCMzkTo-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fTLe9w5As901FmEwYzMM-33" value="2020" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="500" width="120" height="60" as="geometry" />
@@ -162,6 +165,9 @@
         </mxCell>
         <mxCell id="fTLe9w5As901FmEwYzMM-68" value="生产、运力、算力、能源领域&lt;div&gt;供给+需求&lt;/div&gt;&lt;div&gt;成为基础设施&lt;/div&gt;&lt;div&gt;接棒上一次技术革命&lt;/div&gt;&lt;div&gt;外溢效应，提高别的行业的生产效率&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="390" y="1560" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="onF5DvCyqaugdLCMzkTo-1" value="2035？" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
