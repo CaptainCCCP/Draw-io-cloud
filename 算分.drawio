@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T04:40:42.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.0" etag="yN_aG1b0g-zG-plauaCa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T05:18:48.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="SDkQZUS_324hoAD8D3QM" version="24.4.0" type="github">
   <diagram name="第 1 页" id="Ka3PL8n0c80XJF6ejj-2">
-    <mxGraphModel>
+    <mxGraphModel dx="1363" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-28" value="总分，文档有错误" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="960" y="330" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-27" value="计算函数、所有用中文写出的是文档里面名称和词曲模型返回的分数不一致的，不知道是哪个分" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="560" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-26" value="曲模型数据：分数难以从文本中获取" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="350" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-25" value="曲模型数据：完成" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="350" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-1" value="曲模型返回5个分值&lt;div&gt;在返回的json中就是按照右侧从上至下的顺序排列的&lt;/div&gt;&lt;div&gt;从上至下用ABCDE代替&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-2" value="词模型返回4个分值，&lt;div&gt;具体返回顺序我这边不清楚&lt;/div&gt;&lt;div&gt;从上至下用WXYZ代替&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-3" value="动机重复度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-6" value="旋律起伏度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-7" value="律动变化度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-8" value="和声走向特殊性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-9" value="情感丰富度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-11" value="具体画面或物品的意向或想象空间" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-12" value="故事线和整体连贯的逻辑性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-13" value="情感和共情点的表现力" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-14" value="人称代词共鸣度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-15" value="歌词总分=0.25W+0.25X+0.3Y+0.2Z" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="475" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-16" value="艺术欣赏性=0.25W+0.1X+0.3Y+0.1(1-D)+0.15节奏变化+0.1B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-17" value="视频融合性=0.2W+0.25Y+0.15旋律动机重复度+0.1B+0.1C+0.1D+0.2短视频情感适配度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-18" value="画面联想性=0.4W+0.15X+0.3Y+0.1(1-D)+0.05节奏变化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="410" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-19" value="短时记忆性=0.2W+0.15Y+0.15A+0.1C+0.2短视频情感适配度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-20" value="情绪共鸣性=0.35Y+0.15Z+0.1A+0.2B+0.2短视频情感适配度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-22" value="过程分数5项" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-23" value="歌曲总分=0.25A+0.15B+0.2C+0.1和声相似性+0.3短视频情感适配度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="315" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fla-MqzZNqk-GgIwZnwQ-24" value="词曲总分=0.4歌词总分+0.6歌曲总分" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
