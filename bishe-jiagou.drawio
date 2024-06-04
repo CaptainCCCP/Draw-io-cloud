@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T14:29:41.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DLqzErs4iSUv2PVVjOv7" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T14:37:17.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="uk06cdqoSP6KKRntcbs-" version="24.4.13" type="github">
   <diagram name="第 1 页" id="3tUlroh5XNwTupJuTmao">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="iDm44NRPFB-tu1wQ126g-3" value="将图像与标签、掩码等属性对应" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="470" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iDm44NRPFB-tu1wQ126g-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iDm44NRPFB-tu1wQ126g-4" value="假阳性去除（FP reduction）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="610" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iDm44NRPFB-tu1wQ126g-5" value="提取、裁剪、转换格式、排列等初步操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="iDm44NRPFB-tu1wQ126g-8" value="图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDm44NRPFB-tu1wQ126g-11" value="学习特征：&lt;div&gt;diameter、attenuation、spiculation、lobulation、lungpos&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="700" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iDm44NRPFB-tu1wQ126g-12" value="集成分类器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="700" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
