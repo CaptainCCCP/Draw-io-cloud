@@ -19,7 +19,7 @@
         <mxCell id="7tdNyDRqOUNXcjZfK8b2-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L7YEMARuxRNkok3K0Yex-1" target="L7YEMARuxRNkok3K0Yex-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L7YEMARuxRNkok3K0Yex-1" value="number of renovate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="L7YEMARuxRNkok3K0Yex-1" value="revitalizing a condemned house" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7tdNyDRqOUNXcjZfK8b2-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L7YEMARuxRNkok3K0Yex-2" target="7tdNyDRqOUNXcjZfK8b2-5">
@@ -98,6 +98,15 @@
         </mxCell>
         <mxCell id="7tdNyDRqOUNXcjZfK8b2-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.518;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L7YEMARuxRNkok3K0Yex-1" target="L7YEMARuxRNkok3K0Yex-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7tdNyDRqOUNXcjZfK8b2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tdNyDRqOUNXcjZfK8b2-30" target="L7YEMARuxRNkok3K0Yex-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7tdNyDRqOUNXcjZfK8b2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tdNyDRqOUNXcjZfK8b2-30" target="L7YEMARuxRNkok3K0Yex-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7tdNyDRqOUNXcjZfK8b2-30" value="Number of condemned house" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="585" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
