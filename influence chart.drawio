@@ -213,20 +213,26 @@
         <mxCell id="hYXEArziFViD5PN_YFnv-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSifkw_iuJm9G7-eXUs4-1" target="hYXEArziFViD5PN_YFnv-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSifkw_iuJm9G7-eXUs4-1" target="hYXEArziFViD5PN_YFnv-2">
+        <mxCell id="hYXEArziFViD5PN_YFnv-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSifkw_iuJm9G7-eXUs4-1" target="hYXEArziFViD5PN_YFnv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WSifkw_iuJm9G7-eXUs4-1" value="PV capacity&lt;div&gt;1kW-10kW&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1930" y="880" width="120" height="80" as="geometry" />
+          <mxGeometry x="1930" y="940" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSifkw_iuJm9G7-eXUs4-6" target="hYXEArziFViD5PN_YFnv-35">
+        <mxCell id="hYXEArziFViD5PN_YFnv-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSifkw_iuJm9G7-eXUs4-6" target="hYXEArziFViD5PN_YFnv-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WSifkw_iuJm9G7-eXUs4-6" value="Battery storage capacity&lt;div&gt;2kWh-12kWh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1880" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="1480" y="950" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSifkw_iuJm9G7-eXUs4-8" target="hYXEArziFViD5PN_YFnv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSifkw_iuJm9G7-eXUs4-8" target="hYXEArziFViD5PN_YFnv-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WSifkw_iuJm9G7-eXUs4-8" value="Grid electricity usage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2570" y="540" width="120" height="80" as="geometry" />
+          <mxGeometry x="2770" y="920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WSifkw_iuJm9G7-eXUs4-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="WSifkw_iuJm9G7-eXUs4-11" target="WSifkw_iuJm9G7-eXUs4-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -234,10 +240,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WSifkw_iuJm9G7-eXUs4-11" value="total solar&amp;nbsp;&lt;br&gt;radiation of NYC" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="1020" width="240" height="60" as="geometry" />
+          <mxGeometry x="1990" y="1090" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WSifkw_iuJm9G7-eXUs4-12" value="1,400 kWh/year per kW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2020" y="980" width="150" height="30" as="geometry" />
+          <mxGeometry x="1975" y="1060" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSifkw_iuJm9G7-eXUs4-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hYXEArziFViD5PN_YFnv-10" target="WSifkw_iuJm9G7-eXUs4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -246,78 +252,127 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-2" value="total cost for PV" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="830" width="120" height="80" as="geometry" />
+          <mxGeometry x="1750" y="695" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-3" value="kWh provided by natural gas boiler" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="680" width="120" height="80" as="geometry" />
+        <mxCell id="hYXEArziFViD5PN_YFnv-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-3" target="hYXEArziFViD5PN_YFnv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-3" value="kWh provided by natural gas boiler" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-5" target="hYXEArziFViD5PN_YFnv-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-5" value="PV system efficiency&lt;div&gt;16%&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="790" width="240" height="60" as="geometry" />
+          <mxGeometry x="1910" y="800" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-6" target="hYXEArziFViD5PN_YFnv-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-6" value="Natural gas price&lt;div&gt;0.05 per kWh&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="1100" width="240" height="60" as="geometry" />
+        <mxCell id="hYXEArziFViD5PN_YFnv-6" value="Natural gas price&lt;div&gt;0.05 per kWh&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="1100" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-7" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="390" width="240" height="60" as="geometry" />
+        <mxCell id="hYXEArziFViD5PN_YFnv-7" value="minimum energy demand" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="440" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-10" value="cost of PV installation" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="1020" width="240" height="60" as="geometry" />
+        <mxCell id="hYXEArziFViD5PN_YFnv-10" value="cost of PV installation per kW&lt;div&gt;2000&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1090" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-12" target="hYXEArziFViD5PN_YFnv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-12" value="natural gas boiler efficiency&lt;div&gt;90%&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="790" width="240" height="60" as="geometry" />
+          <mxGeometry x="2160" y="800" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-14" target="hYXEArziFViD5PN_YFnv-18">
+        <mxCell id="hYXEArziFViD5PN_YFnv-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-14" target="hYXEArziFViD5PN_YFnv-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-14" target="hYXEArziFViD5PN_YFnv-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-14" value="natural gas consumption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="1000" width="120" height="80" as="geometry" />
+        <mxCell id="hYXEArziFViD5PN_YFnv-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-14" target="hYXEArziFViD5PN_YFnv-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="hYXEArziFViD5PN_YFnv-14" value="natural gas consumption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-18" target="hYXEArziFViD5PN_YFnv-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-18" value="total cost for natural gas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2835" y="500" width="120" height="80" as="geometry" />
+          <mxGeometry x="2530" y="695" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-19" value="electricity producted by PV" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hYXEArziFViD5PN_YFnv-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-19" target="hYXEArziFViD5PN_YFnv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-19" value="kWh provided&amp;nbsp;by PV" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1930" y="690" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-21" value="energy costs" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="hYXEArziFViD5PN_YFnv-21" value="energy costs" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-22" value="carbon emissions" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="hYXEArziFViD5PN_YFnv-22" value="carbon emissions" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1930" y="80" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="hYXEArziFViD5PN_YFnv-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-23" target="hYXEArziFViD5PN_YFnv-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-23" value="grid usage fee" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="310" width="240" height="60" as="geometry" />
+        <mxCell id="hYXEArziFViD5PN_YFnv-23" value="grid usage fee&lt;div&gt;500&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="1090" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-27" target="hYXEArziFViD5PN_YFnv-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYXEArziFViD5PN_YFnv-27" value="annual cost for natural gas&lt;div&gt;400&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="1020" width="240" height="60" as="geometry" />
+        <mxCell id="hYXEArziFViD5PN_YFnv-27" value="annual cost for natural gas&lt;div&gt;400&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="1100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-35" target="hYXEArziFViD5PN_YFnv-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hYXEArziFViD5PN_YFnv-35" value="total cost for battery" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="1540" y="695" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-37" target="WSifkw_iuJm9G7-eXUs4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-37" value="installation cost per kWh&lt;div&gt;800&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1090" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-39" target="WSifkw_iuJm9G7-eXUs4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-39" value="price for grid electricity per kWh&lt;div&gt;0.25&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="1090" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-41" target="hYXEArziFViD5PN_YFnv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-41" value="total cost for grid" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="695" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-46" target="hYXEArziFViD5PN_YFnv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-46" value="carbon emission for gas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-48" target="hYXEArziFViD5PN_YFnv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-48" value="carbon emission" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="695" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-50" target="hYXEArziFViD5PN_YFnv-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-50" value="carbon emission per kWh&lt;div&gt;0.25&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYXEArziFViD5PN_YFnv-54" target="hYXEArziFViD5PN_YFnv-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYXEArziFViD5PN_YFnv-54" value="carbon emission per kWh&lt;div&gt;0.15&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="810" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
