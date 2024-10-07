@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="第 1 页" id="G_OJ9_7VG3s3t3pRjwT4">
-    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1706" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -374,109 +374,106 @@
         <mxCell id="hYXEArziFViD5PN_YFnv-54" value="carbon emission per kWh&lt;div&gt;0.15&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="2670" y="810" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-3" target="LYuevkzKRk7SglGhNws9-67">
+        <mxCell id="LYuevkzKRk7SglGhNws9-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-3" target="LYuevkzKRk7SglGhNws9-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-3" target="LYuevkzKRk7SglGhNws9-68">
+        <mxCell id="LYuevkzKRk7SglGhNws9-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-3" target="LYuevkzKRk7SglGhNws9-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-3" value="labor market condition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-3" value="labor market condition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3722" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-5" target="LYuevkzKRk7SglGhNws9-62">
+        <mxCell id="LYuevkzKRk7SglGhNws9-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-5" target="LYuevkzKRk7SglGhNws9-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-5" value="economic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-5" value="economic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3510" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-8" target="LYuevkzKRk7SglGhNws9-58">
+        <mxCell id="LYuevkzKRk7SglGhNws9-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-8" target="LYuevkzKRk7SglGhNws9-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-8" value="Government Policies" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-8" value="Government Policies" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="4200" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-10" value="total solar&amp;nbsp;&lt;br&gt;radiation of NYC" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="3910" y="1060" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-22" target="LYuevkzKRk7SglGhNws9-3">
+        <mxCell id="LYuevkzKRk7SglGhNws9-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-22" target="LYuevkzKRk7SglGhNws9-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-20" target="LYuevkzKRk7SglGhNws9-28">
+        <mxCell id="LYuevkzKRk7SglGhNws9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-20" target="LYuevkzKRk7SglGhNws9-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-20" value="Natural gas price&lt;div&gt;0.05 per kWh&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="4100" y="1060" width="160" height="60" as="geometry" />
+        <mxCell id="LYuevkzKRk7SglGhNws9-20" value="production" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="3980" y="1060" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-22" value="cost of PV installation per kW&lt;div&gt;2000&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-22" value="total population" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3710" y="1060" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-28" value="Technological Factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-28" value="Technological Factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="4000" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-42" target="LYuevkzKRk7SglGhNws9-5">
+        <mxCell id="LYuevkzKRk7SglGhNws9-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-42" target="LYuevkzKRk7SglGhNws9-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-42" value="installation cost per kWh&lt;div&gt;800&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-42" value="GDP" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3490" y="1060" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-76" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-55" target="LYuevkzKRk7SglGhNws9-72">
+        <mxCell id="LYuevkzKRk7SglGhNws9-76" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-55" target="LYuevkzKRk7SglGhNws9-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-55" value="Demographic Factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-55" value="Demographic Factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="4420" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-56" target="LYuevkzKRk7SglGhNws9-66">
+        <mxCell id="LYuevkzKRk7SglGhNws9-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-56" target="LYuevkzKRk7SglGhNws9-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-56" value="Sector-Specific Factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-56" value="Sector-Specific Factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="4600" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-57" target="LYuevkzKRk7SglGhNws9-71">
+        <mxCell id="LYuevkzKRk7SglGhNws9-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-57" target="LYuevkzKRk7SglGhNws9-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYuevkzKRk7SglGhNws9-57" target="LYuevkzKRk7SglGhNws9-70">
+        <mxCell id="LYuevkzKRk7SglGhNws9-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LYuevkzKRk7SglGhNws9-57" target="LYuevkzKRk7SglGhNws9-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-57" value="Social Factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-57" value="Social Factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="4800" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-58" value="taxation, interest rates, and inflation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-58" value="taxation, interest rates, and inflation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4200" y="745" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-59" value="employment" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-59" value="employment" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="4220" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-60" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-60" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="4770" y="500" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-61" value="jobs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-61" value="jobs" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3430" y="745" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-62" value="investment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-62" value="investment" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3570" y="745" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-63" value="Consumer Demand" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-63" value="Consumer Demand" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3722" y="560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-65" value="Automation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-65" value="Automation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4000" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-66" value="seasonal change" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-66" value="seasonal change" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4600" y="740" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-67" value="educated workers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-67" value="educated &amp;amp; skilled workers" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3700" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-68" value="skilled workers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-68" value="labor participation rate" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3840" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-70" value="education" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-70" value="education" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4940" y="740" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-71" value="Cultural Attitudes Toward Work" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-71" value="Cultural Attitudes Toward Work" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4790" y="740" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LYuevkzKRk7SglGhNws9-72" value="aging population" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LYuevkzKRk7SglGhNws9-72" value="aging population" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4420" y="745" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
