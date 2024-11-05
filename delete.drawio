@@ -1,20 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="APpvXfD2d7fUFiuPZSpG">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RDtK_M0mIoLGtL0KyMgH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RDtK_M0mIoLGtL0KyMgH-2" target="RDtK_M0mIoLGtL0KyMgH-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RDtK_M0mIoLGtL0KyMgH-2" value="脑力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="RDtK_M0mIoLGtL0KyMgH-2" value="脑力允许" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RDtK_M0mIoLGtL0KyMgH-3" value="体力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="RDtK_M0mIoLGtL0KyMgH-3" value="体力允许" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RDtK_M0mIoLGtL0KyMgH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RDtK_M0mIoLGtL0KyMgH-4" target="RDtK_M0mIoLGtL0KyMgH-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDtK_M0mIoLGtL0KyMgH-18" value="建模准确率" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RDtK_M0mIoLGtL0KyMgH-7">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RDtK_M0mIoLGtL0KyMgH-4" value="思考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
@@ -25,8 +30,13 @@
         <mxCell id="RDtK_M0mIoLGtL0KyMgH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RDtK_M0mIoLGtL0KyMgH-6" target="RDtK_M0mIoLGtL0KyMgH-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RDtK_M0mIoLGtL0KyMgH-6" value="辅助" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="RDtK_M0mIoLGtL0KyMgH-20" value="信息的有用程度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RDtK_M0mIoLGtL0KyMgH-14">
+          <mxGeometry x="-0.1705" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDtK_M0mIoLGtL0KyMgH-6" value="思考得到的信息正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RDtK_M0mIoLGtL0KyMgH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RDtK_M0mIoLGtL0KyMgH-3" target="RDtK_M0mIoLGtL0KyMgH-4">
           <mxGeometry relative="1" as="geometry" />
@@ -34,20 +44,30 @@
         <mxCell id="RDtK_M0mIoLGtL0KyMgH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RDtK_M0mIoLGtL0KyMgH-10" target="RDtK_M0mIoLGtL0KyMgH-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RDtK_M0mIoLGtL0KyMgH-10" value="习惯/意识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="RDtK_M0mIoLGtL0KyMgH-10" value="习惯/意识允许" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RDtK_M0mIoLGtL0KyMgH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RDtK_M0mIoLGtL0KyMgH-12" target="RDtK_M0mIoLGtL0KyMgH-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RDtK_M0mIoLGtL0KyMgH-12" value="决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="RDtK_M0mIoLGtL0KyMgH-22" value="运" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RDtK_M0mIoLGtL0KyMgH-17">
+          <mxGeometry x="-0.0137" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDtK_M0mIoLGtL0KyMgH-12" value="决策正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RDtK_M0mIoLGtL0KyMgH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RDtK_M0mIoLGtL0KyMgH-15" target="RDtK_M0mIoLGtL0KyMgH-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RDtK_M0mIoLGtL0KyMgH-15" value="随机决策/本能决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="RDtK_M0mIoLGtL0KyMgH-21" value="运" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RDtK_M0mIoLGtL0KyMgH-16">
+          <mxGeometry x="-0.2468" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDtK_M0mIoLGtL0KyMgH-15" value="随机决策/本能决策正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
