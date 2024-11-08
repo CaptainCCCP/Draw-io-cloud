@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="bKC5QmhDBSJt0FXYR_QA">
-    <mxGraphModel dx="4406" dy="5330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5986" dy="6258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,8 +265,8 @@
         <mxCell id="nXqNh91f3k578FwpFISp-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nXqNh91f3k578FwpFISp-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="nXqNh91f3k578FwpFISp-83" value="supply chain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nXqNh91f3k578FwpFISp-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2020" y="280" width="120" height="60" as="geometry" />
