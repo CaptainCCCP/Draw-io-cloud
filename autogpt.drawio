@@ -69,16 +69,16 @@
           <mxGeometry x="535.5" y="401" width="133" height="35" as="geometry" />
         </mxCell>
         <mxCell id="u5mfamdztPYe69HT2Pw6-1" value="frontend(client)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="108" y="733" width="120" height="60" as="geometry" />
+          <mxGeometry x="59" y="733" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u5mfamdztPYe69HT2Pw6-2" value="backend(server)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="106" y="968" width="120" height="60" as="geometry" />
+          <mxGeometry x="59" y="968" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u5mfamdztPYe69HT2Pw6-3" value="LLM output" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="324" y="873" width="137" height="122" as="geometry" />
+        <mxCell id="u5mfamdztPYe69HT2Pw6-3" value="LLM output dataset" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="239" y="870" width="137" height="122" as="geometry" />
         </mxCell>
         <mxCell id="u5mfamdztPYe69HT2Pw6-5" value="LLM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="958" width="120" height="80" as="geometry" />
+          <mxGeometry x="-101" y="958" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u5mfamdztPYe69HT2Pw6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u5mfamdztPYe69HT2Pw6-6" target="u5mfamdztPYe69HT2Pw6-8">
           <mxGeometry relative="1" as="geometry" />
@@ -96,13 +96,13 @@
           <mxGeometry x="-247" y="733" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u5mfamdztPYe69HT2Pw6-14" value="interact history" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="324" y="1024" width="137" height="122" as="geometry" />
+          <mxGeometry x="239" y="1021" width="137" height="122" as="geometry" />
         </mxCell>
         <mxCell id="u5mfamdztPYe69HT2Pw6-15" value="analyze output?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="495" y="847" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="844" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u5mfamdztPYe69HT2Pw6-16" value="analysis output?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="495" y="921" width="120" height="60" as="geometry" />
+        <mxCell id="u5mfamdztPYe69HT2Pw6-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="410" y="918" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
