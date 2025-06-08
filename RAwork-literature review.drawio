@@ -132,7 +132,7 @@
         <mxCell id="70VluEp73AnBEiVVo5Zr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="70VluEp73AnBEiVVo5Zr-30" target="70VluEp73AnBEiVVo5Zr-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Climate migration amplifies demographic change and population aging 2024" link="https://www.pnas.org/doi/10.1073/pnas.2206192119" id="70VluEp73AnBEiVVo5Zr-30">
+        <UserObject label="Climate migration amplifies demographic change and population aging [PNAS 2024]" link="https://www.pnas.org/doi/10.1073/pnas.2206192119" id="70VluEp73AnBEiVVo5Zr-30">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="252.5" y="-130" width="170" height="60" as="geometry" />
           </mxCell>
@@ -158,7 +158,7 @@
         <mxCell id="70VluEp73AnBEiVVo5Zr-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="70VluEp73AnBEiVVo5Zr-36" target="70VluEp73AnBEiVVo5Zr-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Unsupervised embedding of trajectories captures the latent structure of scientific migration 2023" link="https://www.pnas.org/doi/10.1073/pnas.2305414120" id="70VluEp73AnBEiVVo5Zr-36">
+        <UserObject label="Unsupervised embedding of trajectories captures the latent structure of scientific migration [PNAS 2023]" link="https://www.pnas.org/doi/10.1073/pnas.2305414120" id="70VluEp73AnBEiVVo5Zr-36">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="590" y="-570" width="150" height="100" as="geometry" />
           </mxCell>
@@ -192,7 +192,7 @@
         <mxCell id="70VluEp73AnBEiVVo5Zr-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="70VluEp73AnBEiVVo5Zr-45" target="70VluEp73AnBEiVVo5Zr-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Measuring global migration flows using online data" link="https://www.pnas.org/doi/10.1073/pnas.2409418122" id="70VluEp73AnBEiVVo5Zr-45">
+        <UserObject label="Measuring global migration flows using online data[PNAS2025]" link="https://www.pnas.org/doi/10.1073/pnas.2409418122" id="70VluEp73AnBEiVVo5Zr-45">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-840" y="-300" width="198" height="70" as="geometry" />
           </mxCell>
@@ -203,7 +203,7 @@
         <mxCell id="70VluEp73AnBEiVVo5Zr-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="70VluEp73AnBEiVVo5Zr-49" target="70VluEp73AnBEiVVo5Zr-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Global subnational estimates of migration of scientists reveal large disparities in internal and international flows" link="https://www.pnas.org/doi/full/10.1073/pnas.2424521122" id="70VluEp73AnBEiVVo5Zr-49">
+        <UserObject label="Global subnational estimates of migration of scientists reveal large disparities in internal and international flows[PNAS 2025]" link="https://www.pnas.org/doi/full/10.1073/pnas.2424521122" id="70VluEp73AnBEiVVo5Zr-49">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-590" y="-290" width="220" height="90" as="geometry" />
           </mxCell>
@@ -220,7 +220,7 @@
         <mxCell id="70VluEp73AnBEiVVo5Zr-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="70VluEp73AnBEiVVo5Zr-54" target="70VluEp73AnBEiVVo5Zr-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Nonlinear permanent migration response to climatic variations but minimal response to disasters 2014" link="https://www.pnas.org/doi/10.1073/pnas.1317166111" id="70VluEp73AnBEiVVo5Zr-54">
+        <UserObject label="Nonlinear permanent migration response to climatic variations but minimal response to disasters [PNAS 2014]" link="https://www.pnas.org/doi/10.1073/pnas.1317166111" id="70VluEp73AnBEiVVo5Zr-54">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-270" y="-280" width="130" height="70" as="geometry" />
           </mxCell>
@@ -243,7 +243,7 @@
         <mxCell id="70VluEp73AnBEiVVo5Zr-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="70VluEp73AnBEiVVo5Zr-60" target="70VluEp73AnBEiVVo5Zr-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Climate change and the nonlinear impact of precipitation anomalies on income inequality 2022" link="https://www.pnas.org/doi/full/10.1073/pnas.2203595119" id="70VluEp73AnBEiVVo5Zr-60">
+        <UserObject label="Climate change and the nonlinear impact of precipitation anomalies on income inequality [PNAS 2022}" link="https://www.pnas.org/doi/full/10.1073/pnas.2203595119" id="70VluEp73AnBEiVVo5Zr-60">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-120" y="-220" width="130" height="80" as="geometry" />
           </mxCell>
@@ -254,9 +254,9 @@
         <mxCell id="70VluEp73AnBEiVVo5Zr-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="70VluEp73AnBEiVVo5Zr-65" target="70VluEp73AnBEiVVo5Zr-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Probabilistic population projections with migration uncertainty 2016" link="https://www.pnas.org/doi/10.1073/pnas.1606119113" id="70VluEp73AnBEiVVo5Zr-65">
+        <UserObject label="Probabilistic population projections with migration uncertainty [PNAS 2016]" link="https://www.pnas.org/doi/10.1073/pnas.1606119113" id="70VluEp73AnBEiVVo5Zr-65">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="302.5" y="-630" width="120" height="60" as="geometry" />
+            <mxGeometry x="302.5" y="-630" width="147.5" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="70VluEp73AnBEiVVo5Zr-67" value="could be used to learn how to use estimated data to predict" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -265,9 +265,9 @@
         <mxCell id="pghGgtahqhKlJU7SFDej-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pghGgtahqhKlJU7SFDej-1" target="pghGgtahqhKlJU7SFDej-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Post-flood selective migration interacts with media sentiment and income effects" link="https://www.nature.com/articles/s41558-025-02345-7" id="pghGgtahqhKlJU7SFDej-1">
+        <UserObject label="Post-flood selective migration interacts with media sentiment and income effects[nature2025]" link="https://www.nature.com/articles/s41558-025-02345-7" id="pghGgtahqhKlJU7SFDej-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="-612" y="130" width="132" height="60" as="geometry" />
+            <mxGeometry x="-612" y="130" width="152" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="pghGgtahqhKlJU7SFDej-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pghGgtahqhKlJU7SFDej-4" target="pghGgtahqhKlJU7SFDej-6">
