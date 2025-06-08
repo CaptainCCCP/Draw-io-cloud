@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="oopn0pdFhTOcJvkMdKDm">
-    <mxGraphModel dx="7382" dy="3292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4666" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,6 +285,36 @@
         <mxCell id="pghGgtahqhKlJU7SFDej-9" value="more climate related, 宜居带" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1860" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pghGgtahqhKlJU7SFDej-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="pghGgtahqhKlJU7SFDej-14" target="pghGgtahqhKlJU7SFDej-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pghGgtahqhKlJU7SFDej-14" value="pure climate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3060" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Frequent land-ocean transboundary migration of tropical heatwaves under climate change[nature 2025]" link="https://www.nature.com/articles/s41467-025-58586-9" id="pghGgtahqhKlJU7SFDej-15">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-3120" y="780" width="140" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pghGgtahqhKlJU7SFDej-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="pghGgtahqhKlJU7SFDej-18" target="pghGgtahqhKlJU7SFDej-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pghGgtahqhKlJU7SFDej-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="pghGgtahqhKlJU7SFDej-18" target="pghGgtahqhKlJU7SFDej-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pghGgtahqhKlJU7SFDej-18" value="pure migration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3060" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Domestic migration and city rank dynamics[nature 2025]" link="https://www.nature.com/articles/s44284-024-00170-1" id="pghGgtahqhKlJU7SFDej-19">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-3050" y="190" width="130" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="The laws of attraction: Economic drivers of inter-regional migration, housing costs and the role of policies[OECD 2021]" link="https://www.oecd.org/en/publications/the-laws-of-attraction-economic-drivers-of-inter-regional-migration-housing-costs-and-the-role-of-policies_da8e368a-en.html" id="pghGgtahqhKlJU7SFDej-21">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-2860" y="250" width="210" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
