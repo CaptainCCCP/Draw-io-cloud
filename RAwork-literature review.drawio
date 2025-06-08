@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="oopn0pdFhTOcJvkMdKDm">
-    <mxGraphModel dx="4159" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3839" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
           <mxGeometry x="-200" y="440" width="830" height="380" as="geometry" />
         </mxCell>
         <mxCell id="70VluEp73AnBEiVVo5Zr-1" value="什么导致了什么&lt;div&gt;因为机制很复杂，所以目前仍不够&lt;/div&gt;&lt;div&gt;我们提出可以在这个领域应用更多（例如申请创办一个深度学习的kaggle竞赛，这样可以有更多的引用）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="-290" width="990" height="190" as="geometry" />
+          <mxGeometry x="-1120" y="-320" width="990" height="190" as="geometry" />
         </mxCell>
         <mxCell id="70VluEp73AnBEiVVo5Zr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="70VluEp73AnBEiVVo5Zr-2" target="70VluEp73AnBEiVVo5Zr-3">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
             <mxGeometry x="-860" y="1090" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="70VluEp73AnBEiVVo5Zr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="70VluEp73AnBEiVVo5Zr-15" target="70VluEp73AnBEiVVo5Zr-26">
+        <mxCell id="70VluEp73AnBEiVVo5Zr-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="70VluEp73AnBEiVVo5Zr-15" target="70VluEp73AnBEiVVo5Zr-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70VluEp73AnBEiVVo5Zr-15" value="adaptbility / capacity" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -93,6 +93,9 @@
             <mxPoint x="-850" y="750" as="sourcePoint" />
             <mxPoint x="-800" y="700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="70VluEp73AnBEiVVo5Zr-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="70VluEp73AnBEiVVo5Zr-19" target="70VluEp73AnBEiVVo5Zr-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70VluEp73AnBEiVVo5Zr-19" value="risk" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="50" width="120" height="80" as="geometry" />
@@ -117,11 +120,42 @@
         </mxCell>
         <UserObject label="Bridging and breaking silos: Transformational governance of the migration–sustainability nexus" link="https://www.pnas.org/doi/10.1073/pnas.2206184120" id="70VluEp73AnBEiVVo5Zr-26">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="-660" y="895" width="180" height="90" as="geometry" />
+            <mxGeometry x="-642" y="900" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="70VluEp73AnBEiVVo5Zr-27" value="talked about policies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70VluEp73AnBEiVVo5Zr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70VluEp73AnBEiVVo5Zr-30" target="70VluEp73AnBEiVVo5Zr-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Climate migration amplifies demographic change and population aging 2024" link="https://www.pnas.org/doi/10.1073/pnas.2206192119" id="70VluEp73AnBEiVVo5Zr-30">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="252.5" y="-130" width="170" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="70VluEp73AnBEiVVo5Zr-31" value="sea level rise modeling, people moving out causing problems, talked about risks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-30" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="70VluEp73AnBEiVVo5Zr-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="70VluEp73AnBEiVVo5Zr-34" target="70VluEp73AnBEiVVo5Zr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70VluEp73AnBEiVVo5Zr-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=flexArrow;" edge="1" parent="1" source="70VluEp73AnBEiVVo5Zr-34" target="70VluEp73AnBEiVVo5Zr-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70VluEp73AnBEiVVo5Zr-34" value="modeling" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="70VluEp73AnBEiVVo5Zr-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70VluEp73AnBEiVVo5Zr-36" target="70VluEp73AnBEiVVo5Zr-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Unsupervised embedding of trajectories captures the latent structure of scientific migration 2023" link="https://www.pnas.org/doi/10.1073/pnas.2305414120" id="70VluEp73AnBEiVVo5Zr-36">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="590" y="-570" width="150" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="70VluEp73AnBEiVVo5Zr-38" value="using NLP word2vec model(embedding) to capture the relationship between migration and geolocation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-565" width="133" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
