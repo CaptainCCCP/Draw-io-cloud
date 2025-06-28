@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="oopn0pdFhTOcJvkMdKDm">
-    <mxGraphModel dx="4892" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7919" dy="3609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,11 +365,23 @@
         <mxCell id="l1HBliuBeoB7icKw0Tb3-1" value="FEMA SPR (State Preparedness Report" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2880" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gQS-Z_crh95hOBAeRZGI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1pJR-RXOZVqJzEzDsjnN-1" target="gQS-Z_crh95hOBAeRZGI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;h1 style=&quot;margin-top: 0px; color: rgb(17, 17, 17); font-weight: 400; line-height: 1.2; margin-bottom: 0px; padding: 10px 0px 5px; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;nova-legacy-e-text nova-legacy-e-text--size-xl nova-legacy-e-text--family-display nova-legacy-e-text--spacing-none nova-legacy-e-text--color-grey-900 research-detail-header-section__title&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;Advancing research on climate change, conflict and migration&lt;/font&gt;&lt;/h1&gt;" link="https://www.researchgate.net/publication/332038238_Advancing_research_on_climate_change_conflict_and_migration" id="1pJR-RXOZVqJzEzDsjnN-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="-2754.58" y="620" width="120" height="60" as="geometry" />
+            <mxGeometry x="-778" y="890" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="gQS-Z_crh95hOBAeRZGI-2" value="current problems in studies of migration" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-778" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gQS-Z_crh95hOBAeRZGI-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="gQS-Z_crh95hOBAeRZGI-4" target="1pJR-RXOZVqJzEzDsjnN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQS-Z_crh95hOBAeRZGI-4" value="problems of current studies" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-778" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
