@@ -462,6 +462,9 @@
         <mxCell id="5oRzV7viNx3nxUGM6sqg-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-28" value="ML，要学习的高价值目标是非线性关系，灾害达到某个频率之后，移入率才会很快下降" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
