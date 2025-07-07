@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="第 1 页" id="oopn0pdFhTOcJvkMdKDm">
-    <mxGraphModel dx="5036" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5859" dy="1585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,6 +432,24 @@
         </mxCell>
         <mxCell id="5oRzV7viNx3nxUGM6sqg-16" value="gross migration state 数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2210" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-18" target="5oRzV7viNx3nxUGM6sqg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-18" value="urban scaling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-19" value="economic freedom(试试把这个换成税收或收入水平)影响了人们的迁移意愿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-21" target="5oRzV7viNx3nxUGM6sqg-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-21" value="KDE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-22" value="用于平滑分布" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
