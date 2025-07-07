@@ -450,13 +450,16 @@
         <mxCell id="5oRzV7viNx3nxUGM6sqg-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2640" y="990" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-24" target="5oRzV7viNx3nxUGM6sqg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5oRzV7viNx3nxUGM6sqg-24" value="GWR，用于spatial heterogeneity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2420" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5oRzV7viNx3nxUGM6sqg-25" value="Louvain算法有点像网络的聚类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2420" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5oRzV7viNx3nxUGM6sqg-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-26" value="探究移民与环境有无关系，与什么有关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5oRzV7viNx3nxUGM6sqg-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
