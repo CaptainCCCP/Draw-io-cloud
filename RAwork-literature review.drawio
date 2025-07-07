@@ -391,11 +391,10 @@
         <mxCell id="5oRzV7viNx3nxUGM6sqg-2" value="divergence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2420" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5oRzV7viNx3nxUGM6sqg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-3" target="5oRzV7viNx3nxUGM6sqg-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5oRzV7viNx3nxUGM6sqg-3" value="weathere condition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2210" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-5" target="5oRzV7viNx3nxUGM6sqg-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2330" y="510" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5oRzV7viNx3nxUGM6sqg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-4" target="5oRzV7viNx3nxUGM6sqg-2">
           <mxGeometry relative="1" as="geometry" />
