@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="第 1 页" id="oopn0pdFhTOcJvkMdKDm">
-    <mxGraphModel dx="4892" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5036" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,13 +383,40 @@
           <mxGeometry x="-778" y="740" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5oRzV7viNx3nxUGM6sqg-1" value="来源地与目的地的区别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2600" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="2640" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-2" target="5oRzV7viNx3nxUGM6sqg-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5oRzV7viNx3nxUGM6sqg-2" value="divergence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2420" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-3" target="5oRzV7viNx3nxUGM6sqg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5oRzV7viNx3nxUGM6sqg-3" value="weathere condition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="2210" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-4" target="5oRzV7viNx3nxUGM6sqg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-4" value="county migration routes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-5" target="5oRzV7viNx3nxUGM6sqg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-5" value="annual frequency" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oRzV7viNx3nxUGM6sqg-6" target="5oRzV7viNx3nxUGM6sqg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-6" value="pair correlation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oRzV7viNx3nxUGM6sqg-10" value="不同灾害间的链接程度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
