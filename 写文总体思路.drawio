@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4lnjzUIy2zLyvLKxupwj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lnjzUIy2zLyvLKxupwj-1" target="4lnjzUIy2zLyvLKxupwj-2">
+        <mxCell id="4lnjzUIy2zLyvLKxupwj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4lnjzUIy2zLyvLKxupwj-1" target="4lnjzUIy2zLyvLKxupwj-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4lnjzUIy2zLyvLKxupwj-1" value="&lt;b&gt;基础观点：&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oZSHkCUPdxqQXdslWINK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lnjzUIy2zLyvLKxupwj-1" target="oZSHkCUPdxqQXdslWINK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4lnjzUIy2zLyvLKxupwj-1" value="&lt;b&gt;基础观点：&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lnjzUIy2zLyvLKxupwj-2" value="1.大部分人都是傻子，只会发出噪声" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="4lnjzUIy2zLyvLKxupwj-2" value="1.大部分人都是傻子，只会发出噪声。这个世界就是充满了噪声的，单凡有实际价值的事情，都是需要投入能量逆熵来过滤噪声。" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="250" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oZSHkCUPdxqQXdslWINK-1" value="2.人是社会性的动物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
