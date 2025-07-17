@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="第 1 页" id="YcRGMQ_0SHcng3cSIZfP">
-    <mxGraphModel dx="1996" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4lnjzUIy2zLyvLKxupwj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4lnjzUIy2zLyvLKxupwj-1" target="4lnjzUIy2zLyvLKxupwj-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oZSHkCUPdxqQXdslWINK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lnjzUIy2zLyvLKxupwj-1" target="oZSHkCUPdxqQXdslWINK-1">
+        <mxCell id="oZSHkCUPdxqQXdslWINK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4lnjzUIy2zLyvLKxupwj-1" target="oZSHkCUPdxqQXdslWINK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4lnjzUIy2zLyvLKxupwj-1" value="&lt;b&gt;基础观点：&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -16,8 +16,8 @@
         <mxCell id="4lnjzUIy2zLyvLKxupwj-2" value="1.大部分人都是傻子，只会发出噪声。这个世界就是充满了噪声的，单凡有实际价值的事情，都是需要投入能量逆熵来过滤噪声。" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="250" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZSHkCUPdxqQXdslWINK-1" value="2.人是社会性的动物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="oZSHkCUPdxqQXdslWINK-1" value="2.想要有产出，必须要确保自己的状态正常，这个状态必须要完全专注，类似于所谓心流状态，到底有没有进入状态并产出，是可以时候发现的。大脑在异常状态下，比如醉酒状态下，产出效率极低或是完全无法产出。其中包括了很多点，比如听着音乐等，音乐、酒精可能会产出足够的情绪，但是真正工作时是绝无可能分心而工作的；还有人是社会性的动物，如果进入焦虑、孤单等状态，也很难产出，这就可能使得很多人进入trap状态，完全被困在死循环。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="350" width="370" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
