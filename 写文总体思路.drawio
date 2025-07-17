@@ -86,10 +86,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIgStcMQdL6kKD9h4HdD-24" value="价值" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="240" width="125" height="80" as="geometry" />
+          <mxGeometry x="740" y="215" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aIgStcMQdL6kKD9h4HdD-26" value="体现在熵，尤其是信息。最优的情况肯定是我们花较小的精力去得到高质量的信息。我们必须要注意到自己的损失，不管是什么事，比如这个椭圆形其实和下面的椭圆大小不一致，说服自己不去在意无关紧要的事，不至于在所有事情上花费精力去保持自己的状态，也是一种决策、能力、要做的事。类似于我们忽略噪声，还是像在网上喷别人改善情绪一样，想办法make use of it" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="217.5" width="280" height="125" as="geometry" />
+          <mxGeometry x="910" y="192.5" width="280" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
