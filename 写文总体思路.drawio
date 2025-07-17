@@ -13,8 +13,17 @@
         <mxCell id="aIgStcMQdL6kKD9h4HdD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lnjzUIy2zLyvLKxupwj-1" target="aIgStcMQdL6kKD9h4HdD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lnjzUIy2zLyvLKxupwj-1" target="aIgStcMQdL6kKD9h4HdD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4lnjzUIy2zLyvLKxupwj-1" target="aIgStcMQdL6kKD9h4HdD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4lnjzUIy2zLyvLKxupwj-1" value="&lt;b&gt;基础观点：&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lnjzUIy2zLyvLKxupwj-2" target="aIgStcMQdL6kKD9h4HdD-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4lnjzUIy2zLyvLKxupwj-2" value="1.大部分人都是傻子，只会发出噪声。这个世界就是充满了噪声的，单凡有实际价值的事情，都是需要投入能量逆熵来过滤噪声。" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="250" width="250" height="60" as="geometry" />
@@ -25,11 +34,62 @@
         <mxCell id="oZSHkCUPdxqQXdslWINK-1" value="2.想要有产出，必须要确保自己的状态正常，这个状态必须要完全专注，类似于所谓心流状态，到底有没有进入状态并产出，是可以时候发现的。大脑在异常状态下，比如醉酒状态下，产出效率极低或是完全无法产出。其中包括了很多点，比如听着音乐等，音乐、酒精可能会产出足够的情绪，但是真正工作时是绝无可能分心而工作的；还有人是社会性的动物，如果进入焦虑、孤单等状态，也很难产出，这就可能使得很多人进入trap状态，完全被困在死循环。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="350" width="370" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aIgStcMQdL6kKD9h4HdD-1" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIgStcMQdL6kKD9h4HdD-1" target="aIgStcMQdL6kKD9h4HdD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-1" value="3.在2的基础上，环境对一个人的影响是巨大的，是方方面面的" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aIgStcMQdL6kKD9h4HdD-3" value="很多地方就是这样不利于一个人进入状态的，例如人很多很嘈杂的教室，" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIgStcMQdL6kKD9h4HdD-5" target="aIgStcMQdL6kKD9h4HdD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-5" value="4.类似的，由于情绪等对人的行为模式影响实在是太大，我们需要单独拿出来说。正反馈的重要性，这就涉及到文化" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="600" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIgStcMQdL6kKD9h4HdD-9" target="aIgStcMQdL6kKD9h4HdD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-9" value="文化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="595" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-12" value="文化不过是一群人的行为习惯的集合，文化其实决定了很多，类似于近视的遗传" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIgStcMQdL6kKD9h4HdD-14" target="aIgStcMQdL6kKD9h4HdD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-14" value="5.其实我们在谈到近视的遗传时就涉及到了另外一件事，我举的例子是否就完全是正确的呢？我们就需要明白一件事，事实并不是最重要的，很大程度上，事实是可以被抛弃的。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIgStcMQdL6kKD9h4HdD-16" target="aIgStcMQdL6kKD9h4HdD-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-16" value="事实" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="735" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIgStcMQdL6kKD9h4HdD-18" target="aIgStcMQdL6kKD9h4HdD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-18" value="环境" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="702.5" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-20" value="如果我的目的是说明文化对人的重要影响，而不是近视有百分之多少由家庭习惯遗传，那么这个百分比的事实在这里是可以被抛弃的。" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="737.5" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-22" value="文艺复兴的广场，现代的城市设计" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="902.5" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aIgStcMQdL6kKD9h4HdD-24" target="aIgStcMQdL6kKD9h4HdD-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-24" value="价值" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aIgStcMQdL6kKD9h4HdD-26" value="体现在熵，尤其是信息。最优的情况肯定是我们花较小的精力去得到高质量的信息。我们必须要注意到自己的损失，不管是什么事，比如这个椭圆形其实和下面的椭圆大小不一致，说服自己不去在意无关紧要的事，不至于在所有事情上花费精力去保持自己的状态，也是一种决策、能力、要做的事。" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="225" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
